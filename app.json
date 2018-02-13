@@ -1,0 +1,17 @@
+{
+    "id": "com.tibber",
+    "sdk": 2,
+    "name": {
+        "en": "Tibber"
+    },
+    "description": {
+        "en": "Adding support for Tibber"
+    },
+    "category": "energy",
+    "version": "0.0.1",
+    "compatibility": "1.5.0",
+    "author": {
+        "name": "Daniel Bonsaksen",
+        "email": "danielbonsaksen@hotmail.com"
+    }
+}
